@@ -29,7 +29,7 @@ This project is the second version of the project <a href="https://github.com/Ah
 <h2>How Does Work?</h2><br>
 The car/robot follows these steps (basically): 
 <br><br>
-1-) If exit location is found, go last <i>jumper location</i>
+1-) If exit location is found, go last <i>jumper location</i> <br>
 2-) If bridge is available add this location to <i>jumper_location_array</i>  then go upwards<br>
 2-) Else, if moving in the right direction and there is an available square, proceed in the right direction<br>
 4-) Else, move towards the reference point.<br>
